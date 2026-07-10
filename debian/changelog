@@ -1,23 +1,5 @@
-lingmo-plymouth (3.0.2+lingmo3build1) helium; urgency=medium
+﻿lingmo-boot (1.0.0) trixie; urgency=medium
 
-  * Update logo.
+  * Initial release of lingmo-boot.
 
- -- Lingmo OS Team <team@lingmo.org>  Tue, 19 Aug 2025 17:00:00 +0800
-
-lingmo-plymouth (2.0.1+lingmo3build1) helium; urgency=medium
-
-  * Specification version number.
-
- -- Lingmo OS Team <team@lingmo.org>  Sun, 27 Jul 2025 23:59:14 +0800
-
-lingmo-plymouth (2.0.0) stable; urgency=low
-
-  * Initial release (LingmoOS)  <team@lingmo.org>
-
- -- Lingmo OS Team <team@lingmo.org>  Sat, 06 Apr 2024 23:31:11 +0800
-
-lingmo-plymouth (1.9.9-20) UNRELEASED; urgency=low
-
-  * Initial release (LingmoOS)  <support@lingmo.org>
-
- -- LingmoOS Team <support@lingmo.org>  Sun, 21 Jan 2024 10:31:12 +0800
+ -- Lingmo OS Team <team@lingmo.org>  Fri, 10 Jul 2026 +0000
